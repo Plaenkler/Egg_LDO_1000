@@ -6,10 +6,10 @@
 
   (paper "A4")
   (title_block
-    (title "Egg_LDO_500")
-    (date "2024-01-17")
-    (rev "0.0.0")
-    (company "github.com/plaenkler")
+    (title "Egg_LDO_1000")
+    (date "2024-01-23")
+    (rev "1.0.0")
+    (company "https://github.com/Plaenkler")
   )
 
   (layers
