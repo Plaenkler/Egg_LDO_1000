@@ -5,10 +5,10 @@
   (paper "A4")
 
   (title_block
-    (title "Egg_LDO_500")
-    (date "2024-01-17")
-    (rev "1.0.0")
-    (company "github.com/plaenkler")
+    (title "Egg_LDO_1000")
+    (date "2024-01-23")
+    (rev "1.0.1")
+    (company "https://github.com/Plaenkler")
   )
 
   (lib_symbols
@@ -733,7 +733,7 @@
     )
     (pin "1" (uuid 809f12d4-f71d-4a08-8d22-a63a4975386f))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "#PWR08") (unit 1)
         )
@@ -758,7 +758,7 @@
     )
     (pin "1" (uuid 29ad6e66-3f28-4d1e-bdf0-8c0873d5a4c8))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "#PWR07") (unit 1)
         )
@@ -783,7 +783,7 @@
     )
     (pin "1" (uuid 89895934-cf7c-42e1-80f8-56de1b976777))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "#FLG02") (unit 1)
         )
@@ -808,7 +808,7 @@
     )
     (pin "1" (uuid 08668628-96d4-4e91-b79e-f1b544114380))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "#PWR09") (unit 1)
         )
@@ -819,7 +819,7 @@
   (symbol (lib_id "SamacSys_Parts:C0603C106M8PAC7411") (at 203.2 101.6 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 48adfa42-8efb-4aa0-b66c-8430858e98ac)
-    (property "Reference" "C1" (at 207.01 106.68 90)
+    (property "Reference" "C2" (at 207.01 106.68 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10uF" (at 207.01 109.22 90)
@@ -849,9 +849,9 @@
     (pin "2" (uuid 04eea0bc-e7a5-43d5-8b6a-814c86953aa4))
     (pin "1" (uuid 285a8614-50c4-4140-8aad-8fa2fd803591))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
-          (reference "C1") (unit 1)
+          (reference "C2") (unit 1)
         )
       )
     )
@@ -874,7 +874,7 @@
     )
     (pin "1" (uuid 9b4bb593-96c7-42e1-b9f1-7e8190f3448c))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "#PWR05") (unit 1)
         )
@@ -918,7 +918,7 @@
     (pin "1" (uuid 2d56f48e-6abb-4288-80c4-9cb00190dd68))
     (pin "4" (uuid c30e3ca9-d116-4c69-a74f-191b6e818c02))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "IC1") (unit 1)
         )
@@ -943,7 +943,7 @@
     )
     (pin "1" (uuid 35fb521b-aa8f-493e-aff3-02662d67a26b))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "#FLG01") (unit 1)
         )
@@ -984,7 +984,7 @@
     (pin "1" (uuid 1a598995-47c3-4aec-a205-d1665c5a4a15))
     (pin "2" (uuid f6d3bbf6-f96f-4002-a56c-5358414166f5))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "R2") (unit 1)
         )
@@ -1009,7 +1009,7 @@
     )
     (pin "1" (uuid 1acebbe2-4cb7-4d3e-870c-f551ba562eb0))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "#PWR04") (unit 1)
         )
@@ -1020,7 +1020,7 @@
   (symbol (lib_id "SamacSys_Parts:C0603C106M8PAC7411") (at 151.13 101.6 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7af6559c-4fe3-4db8-be42-dece1d4d8828)
-    (property "Reference" "C2" (at 154.94 106.68 90)
+    (property "Reference" "C1" (at 154.94 106.68 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10uF" (at 156.21 109.22 90)
@@ -1050,9 +1050,9 @@
     (pin "2" (uuid 2b93126b-d4cf-426c-9c66-cb5f112897ee))
     (pin "1" (uuid 1cdc3b1e-2fac-4c45-b180-8d3b8b1452f2))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
-          (reference "C2") (unit 1)
+          (reference "C1") (unit 1)
         )
       )
     )
@@ -1075,7 +1075,7 @@
     )
     (pin "1" (uuid 50eaf9b5-d982-4b90-b9f8-934cc36de34c))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "#PWR03") (unit 1)
         )
@@ -1100,7 +1100,7 @@
     )
     (pin "1" (uuid 47bf7c8a-8754-4533-8316-7b375381a0db))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "#PWR02") (unit 1)
         )
@@ -1125,7 +1125,7 @@
     )
     (pin "1" (uuid 26e7f1ef-fcf1-41f3-8c1c-8a94af60fa77))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "#PWR01") (unit 1)
         )
@@ -1166,7 +1166,7 @@
     (pin "1" (uuid d2973fbc-0d11-4939-adc0-743f4c8104bd))
     (pin "2" (uuid e865c847-265b-4574-9292-24f17c784417))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "R1") (unit 1)
         )
@@ -1215,7 +1215,7 @@
     (pin "MP1" (uuid cec44cc4-f28f-4ae3-9e30-90b1fb557ebe))
     (pin "A9" (uuid 59557dcd-c1ac-423e-aad8-b44d3e959b85))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "J4") (unit 1)
         )
@@ -1240,7 +1240,7 @@
     )
     (pin "1" (uuid b0876b18-9217-420d-b5c3-6daab8a9e651))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "J5") (unit 1)
         )
@@ -1265,7 +1265,7 @@
     )
     (pin "1" (uuid 50adf13d-cc72-4772-a945-c026a2929794))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "#FLG03") (unit 1)
         )
@@ -1290,7 +1290,7 @@
     )
     (pin "1" (uuid 454aec07-998d-457b-bf4c-bad4be629b31))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "J1") (unit 1)
         )
@@ -1315,7 +1315,7 @@
     )
     (pin "1" (uuid 8cfecd9a-a5c1-494d-8330-4bc7a0c8ddfa))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "J2") (unit 1)
         )
@@ -1340,7 +1340,7 @@
     )
     (pin "1" (uuid 536379e3-6e51-4d95-b797-3b7adf5cf0a3))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "#PWR06") (unit 1)
         )
@@ -1365,7 +1365,7 @@
     )
     (pin "1" (uuid 62f4acec-bf0d-4533-9d5c-71cad854ac44))
     (instances
-      (project "Egg_LDO_500"
+      (project "Egg_LDO_1000"
         (path "/95bc5469-6b2a-45ec-aceb-93ea7f890633"
           (reference "J3") (unit 1)
         )
