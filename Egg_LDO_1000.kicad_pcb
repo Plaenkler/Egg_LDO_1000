@@ -1696,7 +1696,7 @@
     (property "ki_description" "SMD Comm X5R, Ceramic, 10 uF, 20%, 10 VDC, 25 VDC, 85C, -55C, X5R, SMD, MLCC, Temperature Stable, Class II, 10 % , 10 MOhms, 7.3 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 15000, 78  Weeks, 70")
     (path "/7af6559c-4fe3-4db8-be42-dece1d4d8828")
     (attr smd)
-    (fp_text reference "C2" (at 0 0 180) (layer "F.SilkS") hide
+    (fp_text reference "C1" (at 0 0 180) (layer "F.SilkS") hide
         (effects (font (size 1.27 1.27) (thickness 0.254)))
       (tstamp 0ee338ec-608c-4add-bab8-411a62b35bdc)
     )
@@ -1814,7 +1814,7 @@
     (property "ki_description" "SMD Comm X5R, Ceramic, 10 uF, 20%, 10 VDC, 25 VDC, 85C, -55C, X5R, SMD, MLCC, Temperature Stable, Class II, 10 % , 10 MOhms, 7.3 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 15000, 78  Weeks, 70")
     (path "/48adfa42-8efb-4aa0-b66c-8430858e98ac")
     (attr smd)
-    (fp_text reference "C1" (at 0 0 90) (layer "F.SilkS") hide
+    (fp_text reference "C2" (at 0 0 90) (layer "F.SilkS") hide
         (effects (font (size 1.27 1.27) (thickness 0.254)))
       (tstamp 0d939c4f-db59-43c0-b42a-0854c69cf2af)
     )
