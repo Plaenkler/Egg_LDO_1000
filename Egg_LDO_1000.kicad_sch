@@ -1023,7 +1023,7 @@
     (property "Reference" "C1" (at 154.94 106.68 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10uF" (at 156.21 109.22 90)
+    (property "Value" "10uF" (at 154.94 109.22 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "C0603" (at 54.94 110.49 0)
