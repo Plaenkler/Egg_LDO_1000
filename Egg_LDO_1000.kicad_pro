@@ -428,7 +428,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../../../../Desktop/Egg_LDO.step",
+      "step": "Egg_LDO_1000.step",
       "vrml": "../../../../../Desktop/Egg_LDO.wrl"
     },
     "page_layout_descr_file": ""
