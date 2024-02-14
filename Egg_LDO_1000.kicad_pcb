@@ -7,8 +7,8 @@
   (paper "A4")
   (title_block
     (title "Egg_LDO_1000")
-    (date "2024-01-23")
-    (rev "1.0.2")
+    (date "2024-02-14")
+    (rev "1.0.3")
     (company "https://github.com/Plaenkler")
   )
 
@@ -115,11 +115,6 @@
     )
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (property pad_prop_castellated) (layers "*.Cu" "*.Mask")
       (net 2 "GND") (pinfunction "Pin_1") (pintype "passive") (tstamp 57520fd5-860d-4004-9450-13537b54061e))
-    (model "${KIPRJMOD}/Egg_LDO_1000_3D/PinHeader_1x01_P2.54mm_Vertical.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (footprint "SamacSys_Parts:ERJUP3" (layer "F.Cu")
@@ -1674,11 +1669,6 @@
     )
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (property pad_prop_castellated) (layers "*.Cu" "*.Mask")
       (net 2 "GND") (pinfunction "Pin_1") (pintype "passive") (tstamp 6402afbe-0eec-4afa-baa3-754d31ce15a5))
-    (model "${KIPRJMOD}/Egg_LDO_1000_3D/PinHeader_1x01_P2.54mm_Vertical.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (footprint "SamacSys_Parts:C0603" (layer "F.Cu")
@@ -1760,11 +1750,6 @@
     )
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (property pad_prop_castellated) (layers "*.Cu" "*.Mask")
       (net 3 "+3.3V") (pinfunction "Pin_1") (pintype "passive") (tstamp c7d9ab3a-3307-4494-8570-3df2e20318d8))
-    (model "${KIPRJMOD}/Egg_LDO_1000_3D/PinHeader_1x01_P2.54mm_Vertical.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
@@ -1792,11 +1777,6 @@
     )
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (property pad_prop_castellated) (layers "*.Cu" "*.Mask")
       (net 2 "GND") (pinfunction "Pin_1") (pintype "passive") (tstamp 408d935b-e5cb-40ee-9dca-8e0d52008ba8))
-    (model "${KIPRJMOD}/Egg_LDO_1000_3D/PinHeader_1x01_P2.54mm_Vertical.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (footprint "SamacSys_Parts:C0603" (layer "F.Cu")
