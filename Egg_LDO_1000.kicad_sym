@@ -15,13 +15,11 @@
     (property "ki_description" "USB-C UFP with 5V to 3.3V LDO" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Egg_LDO_1000_0_1"
+    (symbol "Egg_LDO_1000_1_1"
       (rectangle (start -8.89 1.27) (end 8.89 -6.35)
         (stroke (width 0) (type default))
-        (fill (type none))
+        (fill (type background))
       )
-    )
-    (symbol "Egg_LDO_1000_1_1"
       (pin no_connect line (at -11.43 -1.27 0) (length 2.54)
         (name "NC" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
