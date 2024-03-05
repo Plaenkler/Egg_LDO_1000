@@ -1,8 +1,8 @@
 # Egg LDO 1000
 <table>
   <tr>
-    <td><img src="https://github.com/Plaenkler/Egg_LDO_1000/assets/60503970/a7ec08ab-426e-44f5-8dbf-28c110e31faa"></td>
-    <td><img src="https://github.com/Plaenkler/Egg_LDO_1000/assets/60503970/ff84d5e6-d949-41db-b284-f49cb837aa31"></td>
+    <td><img src="https://github.com/Plaenkler/Egg_LDO_1000/assets/60503970/5a94e50e-6650-43d7-9384-537885b8be8a"></td>
+    <td><img src="https://github.com/Plaenkler/Egg_LDO_1000/assets/60503970/00671db9-c6b9-40e2-b8a0-387c7873d365"></td>
   </tr>
 </table>
 
@@ -16,4 +16,4 @@ It also features overcurrent protection and thermal shutdown for enhanced safety
 
 ## ⚡ Circuit Diagram
 
-![1000sch-1](https://github.com/Plaenkler/Egg_LDO_1000/assets/60503970/50cc0a8d-1687-4bbb-9c55-9c8bb4c3b9e0)
+![sch-1](https://github.com/Plaenkler/Egg_LDO_1000/assets/60503970/048ff34d-c3b8-4d53-b0a7-7c9df5be274a)
