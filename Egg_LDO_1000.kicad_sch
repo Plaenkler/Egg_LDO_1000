@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Egg_LDO_1000")
-		(date "2024-01-23")
-		(rev "1.0.1")
+		(date "2024-03-05")
+		(rev "1.0.2")
 		(company "https://github.com/Plaenkler")
 	)
 	(lib_symbols
@@ -2298,6 +2298,15 @@
 				(hide yes)
 			)
 		)
+		(property "mpn" "C0603C106M8PAC7411"
+			(at 203.2 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "04eea0bc-e7a5-43d5-8b6a-814c86953aa4")
 		)
@@ -2481,6 +2490,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "mpn" "XC6220B331MR-G"
+			(at 163.83 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -2681,6 +2699,15 @@
 				(hide yes)
 			)
 		)
+		(property "mpn" "ERJ-UP3J512V"
+			(at 140.97 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a598995-47c3-4aec-a205-d1665c5a4a15")
 		)
@@ -2865,6 +2892,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "mpn" "C0603C106M8PAC7411"
+			(at 151.13 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -3188,6 +3224,15 @@
 				(hide yes)
 			)
 		)
+		(property "mpn" "ERJ-UP3J512V"
+			(at 125.73 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d2973fbc-0d11-4939-adc0-743f4c8104bd")
 		)
@@ -3305,6 +3350,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "mpn" "USB4135-GF-A"
+			(at 123.19 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
