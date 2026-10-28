@@ -1,4 +1,7 @@
 # Egg LDO 1000
+
+> No AI was involved in this project.
+
 <table>
   <tr>
     <td><img src="https://github.com/Plaenkler/Egg_LDO_1000/assets/60503970/5a94e50e-6650-43d7-9384-537885b8be8a"></td>
