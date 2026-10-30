@@ -1,6 +1,6 @@
 # Egg LDO 1000
 
-> No AI was involved in this project.
+> No AI was involved in this project. Whether that is a mark of quality or the opposite is up to you.
 
 <table>
   <tr>
